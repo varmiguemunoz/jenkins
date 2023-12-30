@@ -1,0 +1,29 @@
+{
+  "name": "jenkins-test",
+  "version": "1.0.0",
+  "description": "jenking testing workspace",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varmiguemunoz/jenkins.git"
+  },
+  "keywords": [
+    "jenkins",
+    "test",
+    "backend"
+  ],
+  "author": "varmiguemunoz <varmiguemunoz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varmiguemunoz/jenkins/issues"
+  },
+  "homepage": "https://github.com/varmiguemunoz/jenkins#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prettier": "^3.1.1"
+  }
+}
